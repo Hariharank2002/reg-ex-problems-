@@ -1,4 +1,4 @@
-# 1. Write the pattern for find the email id format 
+# 2. Write the pattern for find the Gmail id format 
 import re
 str = input("Enter the Gmail : ")
 match = re.search(r'\w+@\w+', str)
