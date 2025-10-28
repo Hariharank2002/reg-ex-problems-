@@ -1,3 +1,4 @@
+# 1. Find the correct gmail
 # 2. Write the pattern for find the Gmail id format 
 import re
 str = input("Enter the Gmail : ")
