@@ -1,4 +1,5 @@
 # 1. Write a Python program to convert a date of yyyy-mm-dd format to dd-mm-yyyy format.
+#reverse the date to India format
 
 import re
 def change_date_format(dt):
